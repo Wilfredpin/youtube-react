@@ -2,7 +2,7 @@
 function Footer() {
   return (
     <footer>
-      <p>Copyright &copy; 2024</p>
+      <p>Copyright &copy; 2024 | Your Website Name</p>
     </footer>
   );
 }
